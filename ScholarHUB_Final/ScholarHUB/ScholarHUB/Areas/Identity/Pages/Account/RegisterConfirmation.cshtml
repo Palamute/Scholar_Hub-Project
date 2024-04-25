@@ -1,0 +1,40 @@
+﻿@page
+@using ScholarHub.Areas.Identity.Pages.Account
+@model RegisterConfirmationModel
+@{
+    ViewData["Title"] = "Register confirmation";
+}
+
+<div class="wrapper">
+    <div class="container main">
+        <div class="row">
+            <div class="col-md-6 side-image" style="background-image: url('https://images.pexels.com/photos/19786702/pexels-photo-19786702/free-photo-of-university-of-greenwich.jpeg?auto=compress&cs=tinysrgb&w=800');">
+            </div>
+            <div class="col-md-6 right">
+                <div class="input-box">
+                    <header>Register Confirmation</header>
+                    @{
+                        if (@Model.DisplayConfirmAccountLink)
+                        {
+                            <p>
+                                This app does not currently have a real email sender registered, see <a href="https://aka.ms/aspaccountconf">these docs</a> for how to configure a real email sender.
+                                Normally this would be emailed: <a id="confirm-link" href="@Model.EmailConfirmationUrl">Click here to confirm your account</a>
+                            </p>
+                        }
+                        else
+                        {
+                            <p>
+                                Please check your email to confirm your account.
+                            </p>
+                        }
+                    }
+
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+

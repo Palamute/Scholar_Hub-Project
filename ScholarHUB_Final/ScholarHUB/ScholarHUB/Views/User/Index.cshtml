@@ -1,0 +1,78 @@
+﻿@using System.IO;
+@model IEnumerable<ScholarHUB.Models.Article>
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="text-center">
+                <h1 class="display-4">All Post</h1>
+            </div>
+            <div class="row">
+                @foreach (var article in Model)
+                {
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="card mb-5 shadow-sm">
+                            @if (IsImageFile(article.ImagePath))
+                            {
+                                <img src="@Url.Content("~/" + article.ImagePath)" class="img-fluid mb-3" alt="Background Image" style="height: 250px;" />
+                            }
+                            <div class="card-body" style="background: #ECECEC">
+                                <div class="card-title">
+                                    <h5><b>Title:</b> @article.Title</h5>
+                                </div>
+                                <h6 class="card-subtitle mb-2 text-muted"><b>Author Name:</b> @article.AuthorName</h6>
+                                <p class="card-subtitle mb-2"><b>Faculty Name:</b> @article.FacultyName</p>
+                                <p class="card-subtitle mb-2"><b>Published Date:</b> @article.PublishedDate</p>
+
+                                <div class="d-flex justify-content-end btn-gap">
+                                    <a href="@Url.Action("Render", "Article", new { id = article.ArticleId })" class="btn btn-outline-secondary rounded-0">View Document</a>
+
+                                    <a href="@Url.Action("Details", "Article", new { id = article.ArticleId })" class="btn btn-outline-primary rounded-0">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    .btn-gap > .btn {
+        margin-right: 1rem;
+    }
+</style>
+
+<script>
+    @functions {
+        bool IsImageFile(string fileName)
+        {
+            if (string.IsNullOrEmpty(fileName))
+                return false;
+
+            string extension = System.IO.Path.GetExtension(fileName);
+            if (extension != null)
+            {
+                extension = extension.ToLower();
+                return extension == ".jpg" || extension == ".jpeg" || extension == ".png" || extension == ".gif";
+            }
+            return false;
+        }
+    }
+</script>
+
+<script>
+        btn - secondary
+    {
+        color: #fff;
+        background - color: #6c757d;
+        border - color: #6c757d;
+    }
+</script>

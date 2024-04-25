@@ -1,0 +1,79 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using ScholarHUB.Models
+
+@inject SignInManager<UserProfile> SignInManager
+@inject UserManager<UserProfile> UserManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="~/css/Home/HomeStyle.css" rel="stylesheet" />
+    <link href="~/css/Home/bootstrap.min.css" rel="stylesheet" />
+    <a href="~/css/Home/bootstrap.min.css.map"></a>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link href="~/css/Home/datatables.bootstrap5.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+
+    <title>SCHOLAR'S HUB</title>
+</head>
+<body>
+    <!-- top navigation bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background: #002147;">
+        <div class="container-fluid">
+            <button class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#topNavBar"
+                    aria-controls="topNavBar"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="topNavBar">
+                <ul class="navbar-nav me-auto my-3 my-lg-0">
+                    <a class="navbar-brand text-uppercase fw-bold ms-auto"
+                       href="#">Scholar Hub</a>
+                    @if (User.IsInRole("Student"))
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Article" asp-action="Create">Add Article</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="User" asp-action="MyArticles">My Article</a>
+                        </li>
+                    }
+                </ul>
+
+                <ul class="navbar-nav d-flex my-3 my-lg-0">
+                    <li class="nav-item dropdown">
+                        <partial name="_LoginPartial" />
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- top navigation bar -->
+
+    <main class="mt-5 pt-3 mb-5 pb-3">
+        @RenderBody()
+    </main>
+
+    <script src="~/js/js/bootstrap.bundle.min.js"></script>
+    <a href="~/js/js/bootstrap.bundle.min.js.map"></a>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.2/dist/chart.min.js"></script>
+    <script src="~/js/js/jquery-3.5.1.js"></script>
+    <script src="~/js/js/jquery.datatables.min.js"></script>
+    <script src="~/js/js/datatables.bootstrap5.min.js"></script>
+    <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#pagination').DataTable();
+        });
+    </script>
+    <script src="~/js/js/script.js"></script>
+</body>
+</html>

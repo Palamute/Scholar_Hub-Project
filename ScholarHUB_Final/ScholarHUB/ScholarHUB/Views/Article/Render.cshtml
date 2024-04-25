@@ -1,0 +1,26 @@
+﻿@model ScholarHUB.Models.Article
+
+@{
+    ViewData["Title"] = "Article Details";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="mb-3">
+                <a href="#" class="btn btn-secondary" onclick="window.history.back();">Exit</a>
+            </div>
+            <div class="viewPDF" style="height:800px"></div>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.3.0/pdfobject.js" integrity="sha512-P5CZHP7ONr+ivoaV0K5CRpUjuIJjg2OQ2lZ5edi+efrFxjCxqvMQOe3US8NcXc/ceVt3/ntx7FaWhCFtnF+1Wg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            <script type="text/javascript">
+                var pdfFilePath = "@ViewBag.PdfFilePath"; // Lấy đường dẫn tệp PDF từ ViewBag
+
+                if (PDFObject.supportsPDFs && pdfFilePath) {
+                    PDFObject.embed(`/uploads/${pdfFilePath}`, ".viewPDF");
+                } else {
+                    console.log("No PDF File");
+                }
+            </script>
+        </div>
+    </div>
+</div>

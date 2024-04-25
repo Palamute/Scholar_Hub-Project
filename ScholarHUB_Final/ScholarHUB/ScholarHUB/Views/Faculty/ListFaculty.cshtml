@@ -1,0 +1,52 @@
+﻿@model List<ScholarHUB.Models.Faculty>
+@{
+    Layout = "~/Views/Shared/_Admin.cshtml";
+    ViewData["Title"] = "List of Faculties";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Faculties List</h1>
+            <p>
+                <a class="btn btn-primary" asp-action="CreateFaculty">Create New</a>
+            </p>
+            <div class="table-responsive">
+                <table class="table table-striped table-hover">
+                    <thead>
+                        <tr>
+                            <th>
+                                Faculty ID
+                            </th>
+                            <th>
+                                Faculty Name
+                            </th>
+                            <th>Function</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var faculty in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => faculty.FacultyId)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => faculty.FacultyName)
+                                </td>
+                                <td>
+                                    <a class="btn btn-secondary" asp-action="Edit" asp-route-id="@faculty.FacultyId">Edit</a>
+                                    <a class="btn btn-danger" asp-action="DeleteFaculty" asp-route-id="@faculty.FacultyId">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <p>
+                <a asp-controller="Admin" asp-action="Index" class="btn btn-dark text-white">Admin Dashboard</a>
+            </p>
+        </div>
+    </div>
+</div>
+

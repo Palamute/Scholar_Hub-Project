@@ -1,0 +1,107 @@
+﻿@using Newtonsoft.Json
+@model ScholarHUB.Models.UserProfile
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>User Details</h1>
+
+            <div>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Id)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Id)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.FirstName)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.FirstName)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.LastName)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.LastName)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.FacultyName)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.FacultyName)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.AcademicYear)
+                    </dt>
+                    <dd class="col-sm-10" style="height: 38px;">
+                        @{
+                            int currentYear = DateTime.Now.Year;
+                            string selectedYear = ViewBag.AcademicYear != null ? ViewBag.AcademicYear.ToString() : null;
+                        }
+                        @using (Html.BeginForm("UpdateAcademicYear", "Admin", FormMethod.Post))
+                        {
+                            <div class="row" style="height: 38px;">
+                            @Html.HiddenFor(model => model.Id)
+                            <div class="form-group mb-3 col-5">
+                                <select class="form-control h-100" id="academicYear" name="academicYear">
+                                    <!-- JavaScript will populate this -->
+                                </select>
+                                @Html.ValidationMessageFor(model => model.AcademicYear, "", new { @class = "text-danger" })
+                            </div>
+                                <button type="submit" class="btn btn-primary col-2 h-100">Update</button>
+                            </div>
+                        }
+
+                        <script>
+                            var currentYear = @currentYear;
+                            var selectedYear = @Html.Raw(JsonConvert.SerializeObject(selectedYear));
+
+                            var select = document.getElementById("academicYear");
+                            for (var year = currentYear - 5; year <= currentYear; year++) {
+                                var option = document.createElement("option");
+                                option.text = year + "-" + (year + 1);
+                                option.value = year + "-" + (year + 1);
+                                if (option.value === selectedYear) {
+                                    option.selected = true;
+                                }
+                                select.add(option);
+                            }
+                        </script>
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Email)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Email)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.PhoneNumber)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.PhoneNumber)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.UserName)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.UserName)
+                    </dd>
+                </dl>
+            </div>
+            <tr></tr>
+            <div>
+                <a class="btn btn-primary" asp-action="List">Back to List</a>
+            </div>
+
+        </div>
+    </div>
+</div>

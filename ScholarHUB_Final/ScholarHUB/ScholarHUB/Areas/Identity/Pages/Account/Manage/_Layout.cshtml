@@ -1,0 +1,84 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using ScholarHUB.Models
+
+@inject SignInManager<UserProfile> SignInManager
+@inject UserManager<UserProfile> UserManager
+
+@{
+    if (ViewData.TryGetValue("ParentLayout", out var parentLayout) && parentLayout !=  null)
+    {
+        Layout = parentLayout.ToString();
+    }
+    else
+    {
+        Layout = "/Areas/Identity/Pages/Account/Manage/_Layout.cshtml";
+    }
+}
+
+<header>
+    <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</header>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="account-settings">
+                    <hr />
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <div class="manage-nav">
+                            <partial name="_ManageNav" />
+                            <a class="nav-link" style="text-decoration: underline; font-weight: bold;"
+                               asp-controller="Admin" asp-action="Index">Admin Dashboard</a>
+                        </div>
+                    }
+                    else if (User.IsInRole("Coordinator"))
+                    {
+                    <div class="manage-nav">
+                        <partial name="_ManageNav" />
+                        <a class="nav-link" style="text-decoration: underline; font-weight: bold;"
+                           asp-controller="Coordinator" asp-action="Index">Coordinator Dashboard</a>
+                    </div>
+                    }
+                    else if (User.IsInRole("Manager"))
+                    {
+                        <div class="manage-nav">
+                            <partial name="_ManageNav" />
+                            <a class="nav-link" style="text-decoration: underline; font-weight: bold;"
+                               asp-controller="Manager" asp-action="Index">Manager Dashboard</a>
+                        </div>
+                    }
+                    else if (User.IsInRole("Student"))
+                    {
+                        <div class="manage-nav">
+                            <partial name="_ManageNav" />
+                            <a class="nav-link" style="text-decoration: underline; font-weight: bold;"
+                               asp-controller="User" asp-action="Index">Home</a>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="manage-nav">
+                            <partial name="_ManageNav" />
+                            <a class="nav-link" style="text-decoration: underline; font-weight: bold;"
+                               asp-controller="Guest" asp-action="Index">Home</a>
+                        </div>
+                    }
+                </div>
+            </div>
+            <div class="col-md-9">
+                <div class="account-settings-body">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+@section Scripts {
+    @RenderSection("Scripts", required: false)}
+

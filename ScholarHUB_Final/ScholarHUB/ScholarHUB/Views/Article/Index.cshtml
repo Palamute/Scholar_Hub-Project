@@ -1,0 +1,51 @@
+﻿@model List<ScholarHUB.Models.Article>
+
+@{
+    ViewData["Title"] = "List of Articles";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>List of Articles</h1>
+            <form asp-controller="Article" asp-action="Search" method="post">
+                <p>
+                    Search: <input type="text" name="searchString" value="@ViewData["currentFilter"]" />
+                    <input type="submit" value="Search" class="btn btn-info" />
+                </p>
+            </form>
+            @Html.ActionLink("Download as Zip file", "DownloadZip", "Article")
+            <div class="table-responsive" id="pagination">
+                <table class="table table-striped table-hover">
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Published Date</th>
+                            <th>Author</th>
+                            <th>Faculty</th>
+                            <th>Status</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var article in Model)
+                        {
+                            <tr>
+                                <td>@article.Title</td>
+                                <td>@article.PublishedDate.ToShortDateString()</td>
+                                <td>@article.AuthorName</td>
+                                <td>@article.FacultyName</td>
+                                <td>@article.Select</td>
+                                <td>
+                                    <a asp-action="Render" asp-route-id="@article.ArticleId">View Document</a>
+                                    <a asp-action="Details" asp-route-id="@article.ArticleId">Details</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

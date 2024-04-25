@@ -1,0 +1,31 @@
+﻿@model ScholarHUB.Models.Faculty
+@{
+    Layout = "~/Views/Shared/_Admin.cshtml";
+    ViewData["Title"] = "Edit Faculty";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Edit Faculty</h1>
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group mb-3">
+                    <label asp-for="FacultyId" class="control-label"></label>
+                    <input asp-for="FacultyId" class="form-control" readonly />
+                    <span asp-validation-for="FacultyId" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="FacultyName" class="control-label"></label>
+                    <input asp-for="FacultyName" class="form-control" />
+                    <span asp-validation-for="FacultyName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Edit" class="btn btn-primary" />
+                    |
+                    <a asp-action="ListFaculty" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

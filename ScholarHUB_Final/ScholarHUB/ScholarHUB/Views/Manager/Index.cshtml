@@ -1,0 +1,123 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+<script src="
+https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js
+"></script>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+            <h3>Total Articles By Each Faculty</h3>
+            <canvas id="facultyPieChart" width="400" height="400"></canvas>
+
+            <script>
+                var facultyData = @Html.Raw(ViewBag.FacultyCounts);
+
+                var facultyNames = facultyData.map(function (item) {
+                    return item.FacultyName;
+                });
+
+                var facultyCounts = facultyData.map(function (item) {
+                    return item.Count;
+                });
+
+                var ctx = document.getElementById('facultyPieChart').getContext('2d');
+                var myPieChart = new Chart(ctx, {
+                    type: 'pie',
+                    data: {
+                        labels: facultyNames,
+                        datasets: [{
+                            data: facultyCounts,
+                            backgroundColor: [
+                                'rgba(255, 99, 132, 0.2)',
+                                'rgba(54, 162, 235, 0.2)',
+                                'rgba(255, 206, 86, 0.2)',
+                                'rgba(75, 192, 192, 0.2)',
+                                'rgba(153, 102, 255, 0.2)',
+                                'rgba(255, 159, 64, 0.2)'
+                            ],
+                            borderColor: [
+                                'rgba(255, 99, 132, 1)',
+                                'rgba(54, 162, 235, 1)',
+                                'rgba(255, 206, 86, 1)',
+                                'rgba(75, 192, 192, 1)',
+                                'rgba(153, 102, 255, 1)',
+                                'rgba(255, 159, 64, 1)'
+                            ],
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        responsive: false
+                    }
+                });
+            </script>
+        </div>
+
+        <div class="col-md-6">
+            <h3>Articles In Each Year By Each Faculty</h3>
+            <canvas id="articleCountsByYearChart" width="400" height="400"></canvas>
+
+            <script>
+                var chartData = @Html.Raw(ViewBag.ChartData);
+
+                var years = chartData.ArticleCountsByYear.map(x => x.Year);
+                var articleCounts = chartData.ArticleCountsByYear.map(x => x.Count);
+
+                var facultyCounts = {};
+                chartData.FacultyCountsByYear.forEach(function (item) {
+                    if (!facultyCounts[item.Year]) {
+                        facultyCounts[item.Year] = [];
+                    }
+                    facultyCounts[item.Year].push({ facultyName: item.FacultyName, count: item.Count });
+                });
+
+                var ctx = document.getElementById('articleCountsByYearChart').getContext('2d');
+                var myChart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: years,
+                        datasets: [{
+                            label: 'Total Articles',
+                            data: articleCounts,
+                            backgroundColor: 'rgba(54, 162, 235, 0.5)',
+                            borderColor: 'rgba(54, 162, 235, 1)',
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            yAxes: [{
+                                ticks: {
+                                    beginAtZero: true
+                                }
+                            }]
+                        }
+                    }
+                });
+
+                Object.keys(facultyCounts).forEach(function (year) {
+                    var data = facultyCounts[year];
+                    data.forEach(function (item) {
+                        var dataset = myChart.data.datasets.find(x => x.label === item.facultyName);
+                        if (!dataset) {
+                            dataset = {
+                                label: item.facultyName,
+                                data: [],
+                                backgroundColor: 'rgba(255, 99, 132, 0.5)',
+                                borderColor: 'rgba(255, 99, 132, 1)',
+                                borderWidth: 1
+                            };
+                            myChart.data.datasets.push(dataset);
+                        }
+                        dataset.data.push(item.count);
+                    });
+                });
+
+                myChart.update();
+            </script>
+        </div>
+    </div>
+</div>

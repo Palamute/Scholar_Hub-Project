@@ -1,0 +1,34 @@
+﻿@model ScholarHUB.Models.Comment
+@{
+    ViewData["Title"] = "Add Comment";
+    Layout = "~/Views/Shared/_Coordinator.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Add Comment</h1>
+            <hr />
+            <div class="row">
+                <div class="col-md-12">
+                    <form asp-action="CreateComment" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group mb-3">
+                            <label asp-for="Content" class="control-label"></label>
+                            <textarea asp-for="Content" class="form-control" rows="5"></textarea>
+                            <span asp-validation-for="Content" class="text-danger"></span>
+                        </div>
+                        <input type="hidden" name="authorId" value="@ViewBag.AuthorId" />
+                        <input type="hidden" name="articleId" value="@ViewBag.ArticleId" />
+                        <div class="form-group">
+                            <input type="submit" value="Create" class="btn btn-primary" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

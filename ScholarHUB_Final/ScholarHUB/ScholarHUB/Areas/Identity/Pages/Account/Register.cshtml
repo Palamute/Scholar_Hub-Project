@@ -1,0 +1,88 @@
+﻿@page
+@using ScholarHub.Areas.Identity.Pages.Account
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "/Areas/Identity/Pages/_LoginRegister.cshtml";
+}
+
+<form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+    <div class="wrapper">
+        <div class="container main">
+            <div class="row register-page">
+                <div class="col-md-6 side-image" style="background-image: url('https://images.pexels.com/photos/19786702/pexels-photo-19786702/free-photo-of-university-of-greenwich.jpeg?auto=compress&cs=tinysrgb&w=800');">
+                    <div class="text">
+                        <p>Join the community of developers <i>- Scholar Hub</i></p>
+                    </div>
+
+                </div>
+                <div class="col-md-6 right">
+
+                    <div class="input-box">
+                        <header>Register</header>
+                        <div asp-validation-summary="ModelOnly" class="text-danger" role="alert">
+                        </div>
+                        <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+                        <div class="input-field">
+                            <input type="text" asp-for="Input.FirstName" class="input" id="firstname" required="" autocomplete="off">
+                            <label asp-for="Input.FirstName">First Name</label>
+                        </div>
+                        <span asp-validation-for="Input.LastName" class="text-danger"></span>
+                        <div class="input-field">
+                            <input type="text" asp-for="Input.LastName" class="input" id="lastname" required="" autocomplete="off">
+                            <label asp-for="Input.LastName">Last Name</label>
+                        </div>
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                        <div class="input-field">
+                            <input type="text" asp-for="Input.Email" class="input" id="email" required="" autocomplete="off" />
+                            <label asp-for="Input.Email">Email</label>
+                        </div>
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                        <div class="input-field">
+                            <input type="password" asp-for="Input.Password" class="input" id="password" required="" autocomplete="new-password" />
+                            <label asp-for="Input.Password">Password</label>
+                        </div>
+                        <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                        <div class="input-field">
+                            <input type="password" asp-for="Input.ConfirmPassword" class="input" id="password" required="" autocomplete="new-password" />
+                            <label asp-for="Input.ConfirmPassword">Confirm Password</label>
+                        </div>
+                        <span asp-validation-for="Input.FacultyName" class="text-danger"></span>
+                        <div class="select-field">
+                            <select asp-for="Input.FacultyName" id="faculty" class="form-select" aria-label="Faculty">
+                                <option selected disabled>Select Faculty</option>
+                                @foreach (var faculty in (ViewData["Faculty"]) as List<ScholarHUB.Models.Faculty>)
+                                {
+                                    <option class="form-select" value="@faculty.FacultyName">@faculty.FacultyName</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="select-field">
+                            <select asp-for="Input.AcademicYear" class="form-select" aria-label="AcademicYear">
+                                <option selected disabled>Select Academic Year</option>
+                                @{
+                                    int currentYear = DateTime.Now.Year;
+                                    for (int year = currentYear - 5; year <= currentYear; year++)
+                                    {
+                                        <option value="@year-@System.Math.Max(year, year+1)">@year-@System.Math.Max(year, year + 1)</option>
+                                    }
+                                }
+                            </select>
+                            <span asp-validation-for="Input.AcademicYear" class="text-danger"></span>
+                        </div>
+                        <div class="input-field">
+                            <input type="submit" class="submit" value="Register">
+                        </div>
+                        <div class="sign in">
+                            <span>Already Have An Account? <a class="text-primary" asp-area="Identity" asp-page="/Account/Login">Log In</a></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,1541 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ScholarHUB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ScholarHUB.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Account\\LoginRegister.css",
+      "PackagePath": "staticwebassets\\css\\Account\\LoginRegister.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Admin\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Admin\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\Admin\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Admin\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Admin\\style.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Coordinator\\Coordinatorstyle.css",
+      "PackagePath": "staticwebassets\\css\\Coordinator\\Coordinatorstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Coordinator\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\Coordinator\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Coordinator\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\Coordinator\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Coordinator\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\css\\Coordinator\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Home\\HomeStyle.css",
+      "PackagePath": "staticwebassets\\css\\Home\\HomeStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Home\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\Home\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Home\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\Home\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Home\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\css\\Home\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Manager\\Managerstyle.css",
+      "PackagePath": "staticwebassets\\css\\Manager\\Managerstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Manager\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\Manager\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Manager\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\Manager\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\Manager\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\css\\Manager\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\User\\User.css",
+      "PackagePath": "staticwebassets\\css\\User\\User.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\data.json",
+      "PackagePath": "staticwebassets\\data.json"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\0022a149-04b8-4647-b146-dc11c9898e2f.jpg",
+      "PackagePath": "staticwebassets\\images\\0022a149-04b8-4647-b146-dc11c9898e2f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\019ec22c-08d8-4032-863b-4b1873145d0e.png",
+      "PackagePath": "staticwebassets\\images\\019ec22c-08d8-4032-863b-4b1873145d0e.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\040bbeb0-57df-4a6f-a444-3341564ad42f.jpg",
+      "PackagePath": "staticwebassets\\images\\040bbeb0-57df-4a6f-a444-3341564ad42f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\04f277ed-8f21-42d1-96d0-96a44295b3f8.jpg",
+      "PackagePath": "staticwebassets\\images\\04f277ed-8f21-42d1-96d0-96a44295b3f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\051515f6-e36d-42d9-aa13-c78dbf52dcba.jpg",
+      "PackagePath": "staticwebassets\\images\\051515f6-e36d-42d9-aa13-c78dbf52dcba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\052cdf1f-4250-4818-b9e3-f0209d5f6ad3.jpg",
+      "PackagePath": "staticwebassets\\images\\052cdf1f-4250-4818-b9e3-f0209d5f6ad3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\05d4f8db-30e8-4b8d-b55e-1e89ba577125.jpg",
+      "PackagePath": "staticwebassets\\images\\05d4f8db-30e8-4b8d-b55e-1e89ba577125.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\06009522-be42-4aa4-ab97-00181c5baa0d.jpg",
+      "PackagePath": "staticwebassets\\images\\06009522-be42-4aa4-ab97-00181c5baa0d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\068d4352-b5f6-472b-9028-b44ae3f7217c.jpg",
+      "PackagePath": "staticwebassets\\images\\068d4352-b5f6-472b-9028-b44ae3f7217c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\07ade1b5-8a4d-404f-b4c5-de366b7f667b.jpg",
+      "PackagePath": "staticwebassets\\images\\07ade1b5-8a4d-404f-b4c5-de366b7f667b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\07cf40e7-3ff4-4408-9370-a7ddf30be54f.jpg",
+      "PackagePath": "staticwebassets\\images\\07cf40e7-3ff4-4408-9370-a7ddf30be54f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\0b5bd6a4-ce6a-47b6-a8d4-fda71c43f728.PNG",
+      "PackagePath": "staticwebassets\\images\\0b5bd6a4-ce6a-47b6-a8d4-fda71c43f728.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\0cd3f65e-165b-4400-9f61-3f1ef72b779e.jpg",
+      "PackagePath": "staticwebassets\\images\\0cd3f65e-165b-4400-9f61-3f1ef72b779e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\0ea8c618-9466-467e-8b1c-b90a4c22fcd3.jpg",
+      "PackagePath": "staticwebassets\\images\\0ea8c618-9466-467e-8b1c-b90a4c22fcd3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\0f7a92a0-e818-4a3a-a5d9-d0051dd7ae7d.png",
+      "PackagePath": "staticwebassets\\images\\0f7a92a0-e818-4a3a-a5d9-d0051dd7ae7d.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\0feb0ee9-ff45-471e-a5d5-f0f15a8233ea.jpg",
+      "PackagePath": "staticwebassets\\images\\0feb0ee9-ff45-471e-a5d5-f0f15a8233ea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\13b61095-bba2-403d-bd5d-4d3f388c7286.jpg",
+      "PackagePath": "staticwebassets\\images\\13b61095-bba2-403d-bd5d-4d3f388c7286.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\13c7e88d-74da-4ada-a663-76ee5fb51876.PNG",
+      "PackagePath": "staticwebassets\\images\\13c7e88d-74da-4ada-a663-76ee5fb51876.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\150f794d-21f1-42d1-b225-616638e2c9ed.jpg",
+      "PackagePath": "staticwebassets\\images\\150f794d-21f1-42d1-b225-616638e2c9ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\1a9f6c81-bacf-46c2-8ceb-7e412e84db04.jpg",
+      "PackagePath": "staticwebassets\\images\\1a9f6c81-bacf-46c2-8ceb-7e412e84db04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\1c88296b-155f-4a02-b384-93eafb755b6e.png",
+      "PackagePath": "staticwebassets\\images\\1c88296b-155f-4a02-b384-93eafb755b6e.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\1ca5cbb5-ee59-42cb-a200-e2899867f660.jpg",
+      "PackagePath": "staticwebassets\\images\\1ca5cbb5-ee59-42cb-a200-e2899867f660.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\1d226e68-4a32-40df-bb92-7a58f2577d4d.jpg",
+      "PackagePath": "staticwebassets\\images\\1d226e68-4a32-40df-bb92-7a58f2577d4d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\1d2fa3fc-f880-4ecd-9ec3-4b6ae2ce9169.jpg",
+      "PackagePath": "staticwebassets\\images\\1d2fa3fc-f880-4ecd-9ec3-4b6ae2ce9169.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\1f7eca15-d85c-4225-948d-5386371e6aaf.png",
+      "PackagePath": "staticwebassets\\images\\1f7eca15-d85c-4225-948d-5386371e6aaf.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\203a9368-a495-4927-a625-11d34a9828ce.PNG",
+      "PackagePath": "staticwebassets\\images\\203a9368-a495-4927-a625-11d34a9828ce.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\210c9422-6cc1-4dd6-b44e-91ed0954b072.png",
+      "PackagePath": "staticwebassets\\images\\210c9422-6cc1-4dd6-b44e-91ed0954b072.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\232d83eb-2d62-4908-b119-6e472d1d79b8.png",
+      "PackagePath": "staticwebassets\\images\\232d83eb-2d62-4908-b119-6e472d1d79b8.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\23370b57-d152-4b5b-9d67-1891bb2143fa.jpg",
+      "PackagePath": "staticwebassets\\images\\23370b57-d152-4b5b-9d67-1891bb2143fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\236d07c8-5be7-4ad0-848b-c3ebc7ce4b02.jpg",
+      "PackagePath": "staticwebassets\\images\\236d07c8-5be7-4ad0-848b-c3ebc7ce4b02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\2384b818-472d-45fe-953b-8cb289e135b4.png",
+      "PackagePath": "staticwebassets\\images\\2384b818-472d-45fe-953b-8cb289e135b4.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\25174170-a339-405d-9a02-f22ef2c35d08.jpg",
+      "PackagePath": "staticwebassets\\images\\25174170-a339-405d-9a02-f22ef2c35d08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\252fdcfa-6988-4631-b093-15ded5da3617.jpg",
+      "PackagePath": "staticwebassets\\images\\252fdcfa-6988-4631-b093-15ded5da3617.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\285178ab-e0d5-4ba4-bef4-f00abceb8451.PNG",
+      "PackagePath": "staticwebassets\\images\\285178ab-e0d5-4ba4-bef4-f00abceb8451.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\2b400888-f159-4fe9-93de-1a237d72956b.PNG",
+      "PackagePath": "staticwebassets\\images\\2b400888-f159-4fe9-93de-1a237d72956b.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\2bb8d43b-009a-42ce-90b7-9bee4daf241a.jpg",
+      "PackagePath": "staticwebassets\\images\\2bb8d43b-009a-42ce-90b7-9bee4daf241a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\2bc1f2fc-006a-438d-8ad6-31f6d61f32c3.jpg",
+      "PackagePath": "staticwebassets\\images\\2bc1f2fc-006a-438d-8ad6-31f6d61f32c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\2be8678e-3860-4822-8912-ed1af59d70a5.PNG",
+      "PackagePath": "staticwebassets\\images\\2be8678e-3860-4822-8912-ed1af59d70a5.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\2c21b033-5e5a-44fc-adb1-52e615555bc6.png",
+      "PackagePath": "staticwebassets\\images\\2c21b033-5e5a-44fc-adb1-52e615555bc6.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\312dee38-3f29-4b9b-8e41-155741edac49.jpg",
+      "PackagePath": "staticwebassets\\images\\312dee38-3f29-4b9b-8e41-155741edac49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\328960fd-0226-4c56-a34d-5977fe1eb7d9.png",
+      "PackagePath": "staticwebassets\\images\\328960fd-0226-4c56-a34d-5977fe1eb7d9.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\3333f81f-7b5c-4f16-b155-b41fe6dfb199.jpg",
+      "PackagePath": "staticwebassets\\images\\3333f81f-7b5c-4f16-b155-b41fe6dfb199.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\339901e8-2684-4e69-9300-ec751aa5b376.jpg",
+      "PackagePath": "staticwebassets\\images\\339901e8-2684-4e69-9300-ec751aa5b376.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\33c7828d-d328-4222-9580-e1ff232dde82.jpg",
+      "PackagePath": "staticwebassets\\images\\33c7828d-d328-4222-9580-e1ff232dde82.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\364ba150-259a-43f4-b5ba-454706e9712c.png",
+      "PackagePath": "staticwebassets\\images\\364ba150-259a-43f4-b5ba-454706e9712c.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\37d26563-90a2-4c37-83dc-1323a6fe1f87.jpg",
+      "PackagePath": "staticwebassets\\images\\37d26563-90a2-4c37-83dc-1323a6fe1f87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\396a8572-d99e-4484-9cd4-4d0142528635.jpg",
+      "PackagePath": "staticwebassets\\images\\396a8572-d99e-4484-9cd4-4d0142528635.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\3abf92e8-3240-4139-84cf-d1bb2986b860.png",
+      "PackagePath": "staticwebassets\\images\\3abf92e8-3240-4139-84cf-d1bb2986b860.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\3bf39d19-dfa0-4b28-af40-d3c3296114c1.PNG",
+      "PackagePath": "staticwebassets\\images\\3bf39d19-dfa0-4b28-af40-d3c3296114c1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\42e8674e-a8f6-4887-8a27-b37bf5bdb39e.jpg",
+      "PackagePath": "staticwebassets\\images\\42e8674e-a8f6-4887-8a27-b37bf5bdb39e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\44df29a5-6eff-4afc-9e5f-67c949e84e69.jpg",
+      "PackagePath": "staticwebassets\\images\\44df29a5-6eff-4afc-9e5f-67c949e84e69.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\4a20b142-ec7c-42bb-92a9-dd96a4864547.jpg",
+      "PackagePath": "staticwebassets\\images\\4a20b142-ec7c-42bb-92a9-dd96a4864547.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\4de864b6-fe39-44e4-838d-3f2e46367904.jpg",
+      "PackagePath": "staticwebassets\\images\\4de864b6-fe39-44e4-838d-3f2e46367904.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\4dfbdba2-6542-4d45-b626-35b7b13da55e.jpg",
+      "PackagePath": "staticwebassets\\images\\4dfbdba2-6542-4d45-b626-35b7b13da55e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\50475a61-cc67-4ea6-a099-cbf75b17522d.jpg",
+      "PackagePath": "staticwebassets\\images\\50475a61-cc67-4ea6-a099-cbf75b17522d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\50f36791-7b39-4cfa-b894-c5a479732498.jpg",
+      "PackagePath": "staticwebassets\\images\\50f36791-7b39-4cfa-b894-c5a479732498.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\55351ecb-9512-4053-a666-3002be467982.png",
+      "PackagePath": "staticwebassets\\images\\55351ecb-9512-4053-a666-3002be467982.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\5627f905-b072-46a1-b18c-76e8f03908bf.jpg",
+      "PackagePath": "staticwebassets\\images\\5627f905-b072-46a1-b18c-76e8f03908bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\5fe78a03-4297-4206-ad95-6245dbadc364.png",
+      "PackagePath": "staticwebassets\\images\\5fe78a03-4297-4206-ad95-6245dbadc364.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\619f48fb-8e46-4f97-aaae-ca8a383160d3.jpg",
+      "PackagePath": "staticwebassets\\images\\619f48fb-8e46-4f97-aaae-ca8a383160d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\61a4cf56-5a16-423c-94c8-b941ee695f2b.jpg",
+      "PackagePath": "staticwebassets\\images\\61a4cf56-5a16-423c-94c8-b941ee695f2b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\61c3a633-168b-453c-89a3-e9cfe9b8be6c.jpg",
+      "PackagePath": "staticwebassets\\images\\61c3a633-168b-453c-89a3-e9cfe9b8be6c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\6273a682-0c64-44ef-80ed-d7c24affc472.PNG",
+      "PackagePath": "staticwebassets\\images\\6273a682-0c64-44ef-80ed-d7c24affc472.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\637b6a2d-aca6-411f-9b33-f4dbe7107a8a.jpg",
+      "PackagePath": "staticwebassets\\images\\637b6a2d-aca6-411f-9b33-f4dbe7107a8a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\64f16586-002d-426e-90d0-9ac984c8bd6e.png",
+      "PackagePath": "staticwebassets\\images\\64f16586-002d-426e-90d0-9ac984c8bd6e.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\6df47b65-2403-4384-8356-d5047fe35ebb.jpg",
+      "PackagePath": "staticwebassets\\images\\6df47b65-2403-4384-8356-d5047fe35ebb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\6e616bab-8239-47a9-bb02-949c9944c689.jpg",
+      "PackagePath": "staticwebassets\\images\\6e616bab-8239-47a9-bb02-949c9944c689.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\6f4cc6d4-1e21-49cb-8e1b-ee0bf7383e5d.png",
+      "PackagePath": "staticwebassets\\images\\6f4cc6d4-1e21-49cb-8e1b-ee0bf7383e5d.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\704d2736-6a73-43b0-8c7a-279952233078.png",
+      "PackagePath": "staticwebassets\\images\\704d2736-6a73-43b0-8c7a-279952233078.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\74517709-f543-48b5-8e06-8e1131735c61.png",
+      "PackagePath": "staticwebassets\\images\\74517709-f543-48b5-8e06-8e1131735c61.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\75e833e5-228d-494e-ab08-7b0b39746a6e.jpg",
+      "PackagePath": "staticwebassets\\images\\75e833e5-228d-494e-ab08-7b0b39746a6e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\7841f823-8d58-48c5-99e8-5abb2bcdf5be.jpg",
+      "PackagePath": "staticwebassets\\images\\7841f823-8d58-48c5-99e8-5abb2bcdf5be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\79ceaf6d-b371-4f15-b772-f8fb47c84d5f.jpg",
+      "PackagePath": "staticwebassets\\images\\79ceaf6d-b371-4f15-b772-f8fb47c84d5f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\7e2c3295-3638-4087-8b7b-b324bb2f9399.jpg",
+      "PackagePath": "staticwebassets\\images\\7e2c3295-3638-4087-8b7b-b324bb2f9399.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\8073840d-84c8-470a-bcda-fa94fd7744e5.jpg",
+      "PackagePath": "staticwebassets\\images\\8073840d-84c8-470a-bcda-fa94fd7744e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\86c3aad0-4829-4708-b9fc-7b32cb6b2ade.png",
+      "PackagePath": "staticwebassets\\images\\86c3aad0-4829-4708-b9fc-7b32cb6b2ade.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\88c0eda5-9aa5-41b4-856e-4984fdbbf82f.jpg",
+      "PackagePath": "staticwebassets\\images\\88c0eda5-9aa5-41b4-856e-4984fdbbf82f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\8fea93a7-c0d6-4b15-88d5-6587e6a83119.PNG",
+      "PackagePath": "staticwebassets\\images\\8fea93a7-c0d6-4b15-88d5-6587e6a83119.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\904472d4-c1e3-41f9-9b83-9284755a9e42.jpg",
+      "PackagePath": "staticwebassets\\images\\904472d4-c1e3-41f9-9b83-9284755a9e42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\91bd4099-ec90-46c3-9875-e8dfe5bc38d9.jpg",
+      "PackagePath": "staticwebassets\\images\\91bd4099-ec90-46c3-9875-e8dfe5bc38d9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\92141d76-1af7-48ed-bc8f-1ef66b753378.jpg",
+      "PackagePath": "staticwebassets\\images\\92141d76-1af7-48ed-bc8f-1ef66b753378.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\93ae8ec9-322a-4a61-aed7-b7a44707af1f.PNG",
+      "PackagePath": "staticwebassets\\images\\93ae8ec9-322a-4a61-aed7-b7a44707af1f.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\9890e6dd-d864-4d13-92cd-fda91464d834.jpg",
+      "PackagePath": "staticwebassets\\images\\9890e6dd-d864-4d13-92cd-fda91464d834.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\99b48467-396e-48dc-baaf-8ce1796147f0.jpg",
+      "PackagePath": "staticwebassets\\images\\99b48467-396e-48dc-baaf-8ce1796147f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\99fe797d-2495-4cf3-ae81-899a8f33f38d.jpg",
+      "PackagePath": "staticwebassets\\images\\99fe797d-2495-4cf3-ae81-899a8f33f38d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\9a565860-bd9a-49fc-a574-68f9dabcbc82.png",
+      "PackagePath": "staticwebassets\\images\\9a565860-bd9a-49fc-a574-68f9dabcbc82.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\9c4ccddd-b3b9-42b8-953e-a4539908d838.png",
+      "PackagePath": "staticwebassets\\images\\9c4ccddd-b3b9-42b8-953e-a4539908d838.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\9cb740fa-739a-4dc5-bb6a-dd53b80fc5c9.jpg",
+      "PackagePath": "staticwebassets\\images\\9cb740fa-739a-4dc5-bb6a-dd53b80fc5c9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\9ebf4cfa-5111-4669-b8e4-ae3e2d9102df.jpg",
+      "PackagePath": "staticwebassets\\images\\9ebf4cfa-5111-4669-b8e4-ae3e2d9102df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\a143457f-e57a-45e8-b31a-4f984c9658da.png",
+      "PackagePath": "staticwebassets\\images\\a143457f-e57a-45e8-b31a-4f984c9658da.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\a2a313aa-c601-437a-8828-0380aa8cc6e9.jpg",
+      "PackagePath": "staticwebassets\\images\\a2a313aa-c601-437a-8828-0380aa8cc6e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\a4d46a3b-8ade-4cbf-842c-6260e6cc5c56.png",
+      "PackagePath": "staticwebassets\\images\\a4d46a3b-8ade-4cbf-842c-6260e6cc5c56.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\a6cdd01a-f8e3-41e5-a1fa-8e55db610af7.png",
+      "PackagePath": "staticwebassets\\images\\a6cdd01a-f8e3-41e5-a1fa-8e55db610af7.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\a7ca6c2a-dfdd-480d-b7c8-ae239d58e6f9.jpg",
+      "PackagePath": "staticwebassets\\images\\a7ca6c2a-dfdd-480d-b7c8-ae239d58e6f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\a977e906-cf86-4b25-84e7-e9ea15c0b609.jpg",
+      "PackagePath": "staticwebassets\\images\\a977e906-cf86-4b25-84e7-e9ea15c0b609.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\a98a9756-6e0e-4012-aafa-7155fe5bf675.jpg",
+      "PackagePath": "staticwebassets\\images\\a98a9756-6e0e-4012-aafa-7155fe5bf675.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\aebc5547-2483-4b5f-b26f-00dbe0c4fab9.jpg",
+      "PackagePath": "staticwebassets\\images\\aebc5547-2483-4b5f-b26f-00dbe0c4fab9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\b2670b92-812e-4ba0-87c6-ef9d6ede0c51.jpg",
+      "PackagePath": "staticwebassets\\images\\b2670b92-812e-4ba0-87c6-ef9d6ede0c51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\b2f56fa0-8cc3-4cdf-a65b-9f59d0bec456.jpg",
+      "PackagePath": "staticwebassets\\images\\b2f56fa0-8cc3-4cdf-a65b-9f59d0bec456.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\b33d196a-3a24-49e6-a4c2-f39ef8b5dbbe.jpg",
+      "PackagePath": "staticwebassets\\images\\b33d196a-3a24-49e6-a4c2-f39ef8b5dbbe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\b6b8376f-71a8-4357-8b8b-0defcec9f061.jpg",
+      "PackagePath": "staticwebassets\\images\\b6b8376f-71a8-4357-8b8b-0defcec9f061.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\b7173938-c569-447c-9c1c-4c32238890e6.png",
+      "PackagePath": "staticwebassets\\images\\b7173938-c569-447c-9c1c-4c32238890e6.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\b927652d-ca0e-4943-9441-c13518a40f16.png",
+      "PackagePath": "staticwebassets\\images\\b927652d-ca0e-4943-9441-c13518a40f16.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\b9d17ef4-90a7-42fc-9c6a-0374feed1886.jpg",
+      "PackagePath": "staticwebassets\\images\\b9d17ef4-90a7-42fc-9c6a-0374feed1886.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\baebbc25-197d-4762-a368-5f50ce34d3d2.jpg",
+      "PackagePath": "staticwebassets\\images\\baebbc25-197d-4762-a368-5f50ce34d3d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\bc4ac4f7-78f8-4e25-8d88-03c8bf4ef8a6.jpg",
+      "PackagePath": "staticwebassets\\images\\bc4ac4f7-78f8-4e25-8d88-03c8bf4ef8a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\be8cb39d-fbfb-40d5-95d2-f93daa44403b.jpg",
+      "PackagePath": "staticwebassets\\images\\be8cb39d-fbfb-40d5-95d2-f93daa44403b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\bec1396c-e9ab-419c-b97c-c8bb25fb5f49.jpg",
+      "PackagePath": "staticwebassets\\images\\bec1396c-e9ab-419c-b97c-c8bb25fb5f49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\c21a7b9f-319b-4aa8-a4ec-583da550b877.png",
+      "PackagePath": "staticwebassets\\images\\c21a7b9f-319b-4aa8-a4ec-583da550b877.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\c5c0934e-b2f3-4625-bdc1-5b5d4f8f9cb5.jpg",
+      "PackagePath": "staticwebassets\\images\\c5c0934e-b2f3-4625-bdc1-5b5d4f8f9cb5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\c730ee7b-28d5-4560-a507-7224f682921b.jpg",
+      "PackagePath": "staticwebassets\\images\\c730ee7b-28d5-4560-a507-7224f682921b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\cb2e0fb3-b005-4c82-8f45-933ae0ed22e9.jpg",
+      "PackagePath": "staticwebassets\\images\\cb2e0fb3-b005-4c82-8f45-933ae0ed22e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\cc5dc66a-7db8-4349-9d66-e95fd486abc9.png",
+      "PackagePath": "staticwebassets\\images\\cc5dc66a-7db8-4349-9d66-e95fd486abc9.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\ccaae283-b993-4f5b-b378-c8c5bce37b70.png",
+      "PackagePath": "staticwebassets\\images\\ccaae283-b993-4f5b-b378-c8c5bce37b70.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\cda72295-9f73-48e3-b6e4-c70e801b4539.png",
+      "PackagePath": "staticwebassets\\images\\cda72295-9f73-48e3-b6e4-c70e801b4539.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\cdea25dd-14cc-44b5-af2b-2e353560298c.jpg",
+      "PackagePath": "staticwebassets\\images\\cdea25dd-14cc-44b5-af2b-2e353560298c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\d4210309-c465-473e-9b6a-ed5431582c9c.png",
+      "PackagePath": "staticwebassets\\images\\d4210309-c465-473e-9b6a-ed5431582c9c.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\da609b4f-e715-4684-aa70-7e784d5e008a.jpg",
+      "PackagePath": "staticwebassets\\images\\da609b4f-e715-4684-aa70-7e784d5e008a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\db17a23e-f997-4e31-8e33-fbd150f2f2e2.jpg",
+      "PackagePath": "staticwebassets\\images\\db17a23e-f997-4e31-8e33-fbd150f2f2e2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\e0a5e8ea-22b0-4a28-8b43-fa7966e176bc.jpg",
+      "PackagePath": "staticwebassets\\images\\e0a5e8ea-22b0-4a28-8b43-fa7966e176bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\e2af5158-9350-4809-b2e7-b7d0ab14541c.jpg",
+      "PackagePath": "staticwebassets\\images\\e2af5158-9350-4809-b2e7-b7d0ab14541c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\e2c0f3d1-31c6-4101-9ff7-b8c1448fef9f.jpg",
+      "PackagePath": "staticwebassets\\images\\e2c0f3d1-31c6-4101-9ff7-b8c1448fef9f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\e333b6e9-9653-4899-9378-9b8b5542ecf8.jpg",
+      "PackagePath": "staticwebassets\\images\\e333b6e9-9653-4899-9378-9b8b5542ecf8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\e41179b3-db94-4fc6-87d7-81e97a7b07a0.png",
+      "PackagePath": "staticwebassets\\images\\e41179b3-db94-4fc6-87d7-81e97a7b07a0.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\e49bfcbe-f143-4112-ad18-18f35a2d27d7.PNG",
+      "PackagePath": "staticwebassets\\images\\e49bfcbe-f143-4112-ad18-18f35a2d27d7.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\ea3ac43c-793a-41e7-803b-e02edeb8a177.jpg",
+      "PackagePath": "staticwebassets\\images\\ea3ac43c-793a-41e7-803b-e02edeb8a177.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\ea50c206-bed5-4f59-8bd8-09d1024302e7.png",
+      "PackagePath": "staticwebassets\\images\\ea50c206-bed5-4f59-8bd8-09d1024302e7.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\eaa10481-766e-4a19-a9a4-9f37fbc1e954.jpg",
+      "PackagePath": "staticwebassets\\images\\eaa10481-766e-4a19-a9a4-9f37fbc1e954.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\eacc55e6-31a0-440e-b297-d01b08eaa043.PNG",
+      "PackagePath": "staticwebassets\\images\\eacc55e6-31a0-440e-b297-d01b08eaa043.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\eb0ca130-17c5-4a00-8434-bdc1dbf189af.jpg",
+      "PackagePath": "staticwebassets\\images\\eb0ca130-17c5-4a00-8434-bdc1dbf189af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\eb16ef03-c476-413a-89a1-b1eb2bfbec9e.jpg",
+      "PackagePath": "staticwebassets\\images\\eb16ef03-c476-413a-89a1-b1eb2bfbec9e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\ed390330-b1d6-499c-a974-8e0732fa93b0.png",
+      "PackagePath": "staticwebassets\\images\\ed390330-b1d6-499c-a974-8e0732fa93b0.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\ed86b38e-aa54-4e1f-a3c1-0d476b9563a5.PNG",
+      "PackagePath": "staticwebassets\\images\\ed86b38e-aa54-4e1f-a3c1-0d476b9563a5.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\edd23290-c5bf-4893-a054-50d86d3f24c5.png",
+      "PackagePath": "staticwebassets\\images\\edd23290-c5bf-4893-a054-50d86d3f24c5.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\f05470d1-23d0-4b7e-8b90-88ef7ca2d48b.png",
+      "PackagePath": "staticwebassets\\images\\f05470d1-23d0-4b7e-8b90-88ef7ca2d48b.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\f0618a31-797d-46c8-b4ed-7e884061873d.jpg",
+      "PackagePath": "staticwebassets\\images\\f0618a31-797d-46c8-b4ed-7e884061873d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\f171cc89-7be1-4fff-95ba-f29746474a5d.jpg",
+      "PackagePath": "staticwebassets\\images\\f171cc89-7be1-4fff-95ba-f29746474a5d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\f58607cf-1dc9-4b90-99c0-c5ca4f4e78fc.jpg",
+      "PackagePath": "staticwebassets\\images\\f58607cf-1dc9-4b90-99c0-c5ca4f4e78fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\f5a0ed1b-3d4c-4bdb-9cf8-80874618b03e.jpg",
+      "PackagePath": "staticwebassets\\images\\f5a0ed1b-3d4c-4bdb-9cf8-80874618b03e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\f5ff62d4-8812-49f9-85f4-e80c81553f29.jpg",
+      "PackagePath": "staticwebassets\\images\\f5ff62d4-8812-49f9-85f4-e80c81553f29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\f7fe0af6-2e5d-49d3-874a-4d4821d9d388.png",
+      "PackagePath": "staticwebassets\\images\\f7fe0af6-2e5d-49d3-874a-4d4821d9d388.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\f8c666d6-f47a-4664-967c-4b50b5468c3c.jpg",
+      "PackagePath": "staticwebassets\\images\\f8c666d6-f47a-4664-967c-4b50b5468c3c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\f9cbbdbb-7df8-4db9-8d47-90c913036f6c.jpg",
+      "PackagePath": "staticwebassets\\images\\f9cbbdbb-7df8-4db9-8d47-90c913036f6c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\fa8bab61-b9ce-4b51-a827-f1685b158590.png",
+      "PackagePath": "staticwebassets\\images\\fa8bab61-b9ce-4b51-a827-f1685b158590.png"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\fe6cee57-4d4f-4bd6-86eb-38096a4fba75.jpg",
+      "PackagePath": "staticwebassets\\images\\fe6cee57-4d4f-4bd6-86eb-38096a4fba75.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\fe7b7f7b-9b50-437b-ba0e-0f542636ac5a.jpg",
+      "PackagePath": "staticwebassets\\images\\fe7b7f7b-9b50-437b-ba0e-0f542636ac5a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\images\\fe93083a-d4ec-4555-9b34-8653e4da14c7.jpg",
+      "PackagePath": "staticwebassets\\images\\fe93083a-d4ec-4555-9b34-8653e4da14c7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\js\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\js\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\js\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\js\\js\\jquery-3.5.1.js",
+      "PackagePath": "staticwebassets\\js\\js\\jquery-3.5.1.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\js\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\js\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\01c532b2-2c76-4a0e-aa8c-68bfcea0ce0c.docx",
+      "PackagePath": "staticwebassets\\uploads\\01c532b2-2c76-4a0e-aa8c-68bfcea0ce0c.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\04f765fd-edbb-4f6d-afd7-6aaa55ef90d0.docx",
+      "PackagePath": "staticwebassets\\uploads\\04f765fd-edbb-4f6d-afd7-6aaa55ef90d0.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\04f765fd-edbb-4f6d-afd7-6aaa55ef90d0.pdf",
+      "PackagePath": "staticwebassets\\uploads\\04f765fd-edbb-4f6d-afd7-6aaa55ef90d0.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\0504a151-c304-4a12-ae10-0ab7053a9bb1.docx",
+      "PackagePath": "staticwebassets\\uploads\\0504a151-c304-4a12-ae10-0ab7053a9bb1.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\0b5eff0c-5515-43e0-856d-709f2d798b56.docx",
+      "PackagePath": "staticwebassets\\uploads\\0b5eff0c-5515-43e0-856d-709f2d798b56.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\0c7fc238-48c7-4663-b08d-fa124e3e2066.docx",
+      "PackagePath": "staticwebassets\\uploads\\0c7fc238-48c7-4663-b08d-fa124e3e2066.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\0cd3e277-0b00-425a-954f-f0b6dd42c321.docx",
+      "PackagePath": "staticwebassets\\uploads\\0cd3e277-0b00-425a-954f-f0b6dd42c321.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\1042873b-927c-422b-a99d-2257078cb329.docx",
+      "PackagePath": "staticwebassets\\uploads\\1042873b-927c-422b-a99d-2257078cb329.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\1136fe7a-f03f-44f4-bd47-644a3dc69edb.docx",
+      "PackagePath": "staticwebassets\\uploads\\1136fe7a-f03f-44f4-bd47-644a3dc69edb.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\13e62254-2770-4de5-ae11-fac619c48279.docx",
+      "PackagePath": "staticwebassets\\uploads\\13e62254-2770-4de5-ae11-fac619c48279.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\154dbdc6-db07-4986-8b08-453e74e5e716.docx",
+      "PackagePath": "staticwebassets\\uploads\\154dbdc6-db07-4986-8b08-453e74e5e716.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\1eea7143-1141-408c-b629-dee8615b9a3b.docx",
+      "PackagePath": "staticwebassets\\uploads\\1eea7143-1141-408c-b629-dee8615b9a3b.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\1eee245c-432c-47c9-83f3-8d411b539565.docx",
+      "PackagePath": "staticwebassets\\uploads\\1eee245c-432c-47c9-83f3-8d411b539565.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\1f0bd284-2d48-46ff-9bf7-252382f2994d.docx",
+      "PackagePath": "staticwebassets\\uploads\\1f0bd284-2d48-46ff-9bf7-252382f2994d.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\1fc258b8-6dce-4d27-b89f-56ac37f314a8.docx",
+      "PackagePath": "staticwebassets\\uploads\\1fc258b8-6dce-4d27-b89f-56ac37f314a8.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\1ffc4e64-27f3-438c-b503-4fbc68753e74.docx",
+      "PackagePath": "staticwebassets\\uploads\\1ffc4e64-27f3-438c-b503-4fbc68753e74.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\22bf3295-ef1f-4088-be5f-4a8f064f94c9.docx",
+      "PackagePath": "staticwebassets\\uploads\\22bf3295-ef1f-4088-be5f-4a8f064f94c9.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\236d0359-f7bb-41a2-9093-65f5797defc8.docx",
+      "PackagePath": "staticwebassets\\uploads\\236d0359-f7bb-41a2-9093-65f5797defc8.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\27367e07-7df5-48f1-950c-fd9381a64c3f.docx",
+      "PackagePath": "staticwebassets\\uploads\\27367e07-7df5-48f1-950c-fd9381a64c3f.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\27538d91-0605-4465-a660-2faf7e35bb4b.docx",
+      "PackagePath": "staticwebassets\\uploads\\27538d91-0605-4465-a660-2faf7e35bb4b.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\27538d91-0605-4465-a660-2faf7e35bb4b.pdf",
+      "PackagePath": "staticwebassets\\uploads\\27538d91-0605-4465-a660-2faf7e35bb4b.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\29ba4301-bc47-4342-92ed-383bed603589.docx",
+      "PackagePath": "staticwebassets\\uploads\\29ba4301-bc47-4342-92ed-383bed603589.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\2a9a06ec-76c3-4be8-99ba-bee1b2005ce3.docx",
+      "PackagePath": "staticwebassets\\uploads\\2a9a06ec-76c3-4be8-99ba-bee1b2005ce3.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\2c0803d4-897e-44e0-815f-210d2da23217.docx",
+      "PackagePath": "staticwebassets\\uploads\\2c0803d4-897e-44e0-815f-210d2da23217.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\2cd12ef8-bfaa-4161-b6e9-6f5970840f88.docx",
+      "PackagePath": "staticwebassets\\uploads\\2cd12ef8-bfaa-4161-b6e9-6f5970840f88.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\304642fd-19b1-436b-86cc-fd8a6d115a49.docx",
+      "PackagePath": "staticwebassets\\uploads\\304642fd-19b1-436b-86cc-fd8a6d115a49.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\304642fd-19b1-436b-86cc-fd8a6d115a49.pdf",
+      "PackagePath": "staticwebassets\\uploads\\304642fd-19b1-436b-86cc-fd8a6d115a49.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\32359d68-23b4-4590-80ad-40cdcc68bbec.docx",
+      "PackagePath": "staticwebassets\\uploads\\32359d68-23b4-4590-80ad-40cdcc68bbec.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\3295cf0c-1214-4084-b48b-179c2630db42.docx",
+      "PackagePath": "staticwebassets\\uploads\\3295cf0c-1214-4084-b48b-179c2630db42.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\3447da32-b3b5-46ba-a111-3bb218d9dcfa.docx",
+      "PackagePath": "staticwebassets\\uploads\\3447da32-b3b5-46ba-a111-3bb218d9dcfa.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\355fda33-0111-4f55-8856-0d3363ddeac5.docx",
+      "PackagePath": "staticwebassets\\uploads\\355fda33-0111-4f55-8856-0d3363ddeac5.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\35c0e12a-4cdd-4f68-9464-d1c2bf7083e2.docx",
+      "PackagePath": "staticwebassets\\uploads\\35c0e12a-4cdd-4f68-9464-d1c2bf7083e2.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\37a36eec-f7f0-4acf-908e-9f027e5a74d0.docx",
+      "PackagePath": "staticwebassets\\uploads\\37a36eec-f7f0-4acf-908e-9f027e5a74d0.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\37c7349e-468b-47e4-8c52-64fbffa921bc.docx",
+      "PackagePath": "staticwebassets\\uploads\\37c7349e-468b-47e4-8c52-64fbffa921bc.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\3e828de4-8012-402a-96ca-3647594efca5.docx",
+      "PackagePath": "staticwebassets\\uploads\\3e828de4-8012-402a-96ca-3647594efca5.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\4353c715-01b2-4faa-b4e4-d0f013a8fc0b.docx",
+      "PackagePath": "staticwebassets\\uploads\\4353c715-01b2-4faa-b4e4-d0f013a8fc0b.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\43a42099-af58-4ab6-8eea-b243ef6c8729.docx",
+      "PackagePath": "staticwebassets\\uploads\\43a42099-af58-4ab6-8eea-b243ef6c8729.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\4a9600b9-f615-435a-bc86-74d6ccfc3228.docx",
+      "PackagePath": "staticwebassets\\uploads\\4a9600b9-f615-435a-bc86-74d6ccfc3228.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\4b1693cb-059a-4d7f-871a-2b59f44463bb.docx",
+      "PackagePath": "staticwebassets\\uploads\\4b1693cb-059a-4d7f-871a-2b59f44463bb.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\4ce156a4-f2c2-40e1-a205-984c90140185.docx",
+      "PackagePath": "staticwebassets\\uploads\\4ce156a4-f2c2-40e1-a205-984c90140185.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\4e52e6cb-b04d-4e97-8711-bd34a7209cdc.docx",
+      "PackagePath": "staticwebassets\\uploads\\4e52e6cb-b04d-4e97-8711-bd34a7209cdc.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\4ed79108-4a41-4ef0-b435-b195c59f8a9b.docx",
+      "PackagePath": "staticwebassets\\uploads\\4ed79108-4a41-4ef0-b435-b195c59f8a9b.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\506f1704-cba5-425f-a749-d8c8683e1f19.docx",
+      "PackagePath": "staticwebassets\\uploads\\506f1704-cba5-425f-a749-d8c8683e1f19.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\530c47fb-059c-41c6-b41a-96a5ead40cc3.docx",
+      "PackagePath": "staticwebassets\\uploads\\530c47fb-059c-41c6-b41a-96a5ead40cc3.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\541b3b49-b440-4f47-998f-b352f293590b.docx",
+      "PackagePath": "staticwebassets\\uploads\\541b3b49-b440-4f47-998f-b352f293590b.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\557d27af-1756-4888-9b2c-0fbb195f79d4.docx",
+      "PackagePath": "staticwebassets\\uploads\\557d27af-1756-4888-9b2c-0fbb195f79d4.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\55ae5c9f-224a-4a4e-bdb0-573a95fc66da.docx",
+      "PackagePath": "staticwebassets\\uploads\\55ae5c9f-224a-4a4e-bdb0-573a95fc66da.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\55d34c32-00cf-4d2d-b30f-b72811f32880.docx",
+      "PackagePath": "staticwebassets\\uploads\\55d34c32-00cf-4d2d-b30f-b72811f32880.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\576f6e0b-3e08-494d-9fa5-63ec491420c1.docx",
+      "PackagePath": "staticwebassets\\uploads\\576f6e0b-3e08-494d-9fa5-63ec491420c1.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\577c0806-44a7-4cfe-b142-a60563d2ee64.docx",
+      "PackagePath": "staticwebassets\\uploads\\577c0806-44a7-4cfe-b142-a60563d2ee64.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\57e90658-7886-441b-a07e-c7f0cbc5a582.docx",
+      "PackagePath": "staticwebassets\\uploads\\57e90658-7886-441b-a07e-c7f0cbc5a582.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\58de6596-a18c-47d5-85fc-2e8a6a071ba9.docx",
+      "PackagePath": "staticwebassets\\uploads\\58de6596-a18c-47d5-85fc-2e8a6a071ba9.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\58fbb2db-66ed-41b0-96ff-4cfd50ba9e8c.docx",
+      "PackagePath": "staticwebassets\\uploads\\58fbb2db-66ed-41b0-96ff-4cfd50ba9e8c.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\599dda33-f56a-4e97-9266-98fa8765a0f8.docx",
+      "PackagePath": "staticwebassets\\uploads\\599dda33-f56a-4e97-9266-98fa8765a0f8.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\5aa2a877-279e-46ed-ae07-f69cf6efd353.docx",
+      "PackagePath": "staticwebassets\\uploads\\5aa2a877-279e-46ed-ae07-f69cf6efd353.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\5be7c381-ce53-441a-9f36-fa848cdfd16d.docx",
+      "PackagePath": "staticwebassets\\uploads\\5be7c381-ce53-441a-9f36-fa848cdfd16d.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\5c6f593b-d142-4ed1-bbd4-0d8f89326c4b.docx",
+      "PackagePath": "staticwebassets\\uploads\\5c6f593b-d142-4ed1-bbd4-0d8f89326c4b.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\5f881081-8843-43be-89ac-88140541d0ca.docx",
+      "PackagePath": "staticwebassets\\uploads\\5f881081-8843-43be-89ac-88140541d0ca.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\612bad30-4350-40e0-a170-7506e9889db7.docx",
+      "PackagePath": "staticwebassets\\uploads\\612bad30-4350-40e0-a170-7506e9889db7.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\640ef155-0b42-4950-9bfb-c140b1dd1918.docx",
+      "PackagePath": "staticwebassets\\uploads\\640ef155-0b42-4950-9bfb-c140b1dd1918.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\65102b54-bd72-4fc7-b525-bb7c9abdc77a.docx",
+      "PackagePath": "staticwebassets\\uploads\\65102b54-bd72-4fc7-b525-bb7c9abdc77a.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\657d3f72-34e0-41d6-b080-a54227fc2796.docx",
+      "PackagePath": "staticwebassets\\uploads\\657d3f72-34e0-41d6-b080-a54227fc2796.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\661c6400-9318-493a-8633-aa9c6ff9526a.docx",
+      "PackagePath": "staticwebassets\\uploads\\661c6400-9318-493a-8633-aa9c6ff9526a.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\6a2818b7-e86f-49da-9e52-9a6d30afbcb8.docx",
+      "PackagePath": "staticwebassets\\uploads\\6a2818b7-e86f-49da-9e52-9a6d30afbcb8.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\6e038c83-b651-422d-9a9e-ee1c1ed47c60.docx",
+      "PackagePath": "staticwebassets\\uploads\\6e038c83-b651-422d-9a9e-ee1c1ed47c60.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\6f1802ec-a25c-453e-9a9e-d866d794ba9a.docx",
+      "PackagePath": "staticwebassets\\uploads\\6f1802ec-a25c-453e-9a9e-d866d794ba9a.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\719db911-b51f-4dc4-ad4a-9104792d32d6.docx",
+      "PackagePath": "staticwebassets\\uploads\\719db911-b51f-4dc4-ad4a-9104792d32d6.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\723d3a16-951e-494e-92e0-f7adbdf30e56.docx",
+      "PackagePath": "staticwebassets\\uploads\\723d3a16-951e-494e-92e0-f7adbdf30e56.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\728ef494-66b9-4deb-877a-d8ba524df62d.docx",
+      "PackagePath": "staticwebassets\\uploads\\728ef494-66b9-4deb-877a-d8ba524df62d.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\73158e44-29db-4e58-9a2d-93573bb38e9b.docx",
+      "PackagePath": "staticwebassets\\uploads\\73158e44-29db-4e58-9a2d-93573bb38e9b.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\7493f87f-4a65-4d3f-a949-01095fb73a6f.docx",
+      "PackagePath": "staticwebassets\\uploads\\7493f87f-4a65-4d3f-a949-01095fb73a6f.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\74d4859f-dc14-4915-9c68-d135895c917a.docx",
+      "PackagePath": "staticwebassets\\uploads\\74d4859f-dc14-4915-9c68-d135895c917a.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\75032b30-183c-4f02-b32b-fe4454c8a45a.docx",
+      "PackagePath": "staticwebassets\\uploads\\75032b30-183c-4f02-b32b-fe4454c8a45a.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\770396d9-3fe3-4a93-9b16-6083cf7df295.docx",
+      "PackagePath": "staticwebassets\\uploads\\770396d9-3fe3-4a93-9b16-6083cf7df295.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\781fafc7-7fb8-401f-b3ae-f145fead6db0.docx",
+      "PackagePath": "staticwebassets\\uploads\\781fafc7-7fb8-401f-b3ae-f145fead6db0.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\79d7db8a-6bc0-418b-aa06-69f4e47173dd.docx",
+      "PackagePath": "staticwebassets\\uploads\\79d7db8a-6bc0-418b-aa06-69f4e47173dd.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\7ccc0787-32b0-428c-970e-0f17f49068f3.docx",
+      "PackagePath": "staticwebassets\\uploads\\7ccc0787-32b0-428c-970e-0f17f49068f3.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\7ecde299-92e1-4e6a-bea2-630188a1f35b.docx",
+      "PackagePath": "staticwebassets\\uploads\\7ecde299-92e1-4e6a-bea2-630188a1f35b.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\804fc7f3-6660-4a78-9a39-9c3117d74012.docx",
+      "PackagePath": "staticwebassets\\uploads\\804fc7f3-6660-4a78-9a39-9c3117d74012.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\863cdc5f-8519-4c8c-b28a-71ce9a9fcf32.docx",
+      "PackagePath": "staticwebassets\\uploads\\863cdc5f-8519-4c8c-b28a-71ce9a9fcf32.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\89de8267-4952-4ad3-846c-b938ac28fba0.docx",
+      "PackagePath": "staticwebassets\\uploads\\89de8267-4952-4ad3-846c-b938ac28fba0.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\8ae0dd03-bba4-435b-b75f-e1affa26cf63.docx",
+      "PackagePath": "staticwebassets\\uploads\\8ae0dd03-bba4-435b-b75f-e1affa26cf63.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\8b1e43f9-5ed9-48df-a26a-537f36c3591e.docx",
+      "PackagePath": "staticwebassets\\uploads\\8b1e43f9-5ed9-48df-a26a-537f36c3591e.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\8b284c76-d041-4d4f-a754-76690d453227.docx",
+      "PackagePath": "staticwebassets\\uploads\\8b284c76-d041-4d4f-a754-76690d453227.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\8d4edbb7-38a4-4785-b798-7e5432f0a9a3.docx",
+      "PackagePath": "staticwebassets\\uploads\\8d4edbb7-38a4-4785-b798-7e5432f0a9a3.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\8f2ef2c4-a76e-4e4c-b213-d5edca12f896.docx",
+      "PackagePath": "staticwebassets\\uploads\\8f2ef2c4-a76e-4e4c-b213-d5edca12f896.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\8f5e0927-e131-4eb7-afd5-4f074a151951.docx",
+      "PackagePath": "staticwebassets\\uploads\\8f5e0927-e131-4eb7-afd5-4f074a151951.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\8f5fd504-98f8-437a-97fd-a4fa91a0f200.docx",
+      "PackagePath": "staticwebassets\\uploads\\8f5fd504-98f8-437a-97fd-a4fa91a0f200.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\8feb3794-a007-4580-8c4c-eef88cd30449.docx",
+      "PackagePath": "staticwebassets\\uploads\\8feb3794-a007-4580-8c4c-eef88cd30449.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\91af6b31-bdfa-484d-b80e-a3014d82dece.docx",
+      "PackagePath": "staticwebassets\\uploads\\91af6b31-bdfa-484d-b80e-a3014d82dece.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\9408bead-8e4f-4ab9-aa4b-6ba10af71689.docx",
+      "PackagePath": "staticwebassets\\uploads\\9408bead-8e4f-4ab9-aa4b-6ba10af71689.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\940ce368-e522-48b0-bec1-dd0550dbd83f.docx",
+      "PackagePath": "staticwebassets\\uploads\\940ce368-e522-48b0-bec1-dd0550dbd83f.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\94605137-3f65-49ba-bffe-04879f7e3391.docx",
+      "PackagePath": "staticwebassets\\uploads\\94605137-3f65-49ba-bffe-04879f7e3391.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\97efe7d4-6672-40ca-8502-6268a49ed18f.docx",
+      "PackagePath": "staticwebassets\\uploads\\97efe7d4-6672-40ca-8502-6268a49ed18f.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\99930ffa-47a5-4122-bd66-142864022377.docx",
+      "PackagePath": "staticwebassets\\uploads\\99930ffa-47a5-4122-bd66-142864022377.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\9be3adb2-8eb3-451a-a61e-29f75b3af376.docx",
+      "PackagePath": "staticwebassets\\uploads\\9be3adb2-8eb3-451a-a61e-29f75b3af376.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\9e9ab978-1258-4570-9396-26d53236b36e.docx",
+      "PackagePath": "staticwebassets\\uploads\\9e9ab978-1258-4570-9396-26d53236b36e.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\a036f86e-10c9-4c38-83d3-7402be86caea.docx",
+      "PackagePath": "staticwebassets\\uploads\\a036f86e-10c9-4c38-83d3-7402be86caea.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\a25eae48-b2f0-4374-ac7f-788156e2fd55.docx",
+      "PackagePath": "staticwebassets\\uploads\\a25eae48-b2f0-4374-ac7f-788156e2fd55.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\a7d99cca-d4ca-4dd7-a45d-e8fc3cb1cfc9.docx",
+      "PackagePath": "staticwebassets\\uploads\\a7d99cca-d4ca-4dd7-a45d-e8fc3cb1cfc9.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\aa4db27a-d812-4ee6-9a8b-1d873839289d.docx",
+      "PackagePath": "staticwebassets\\uploads\\aa4db27a-d812-4ee6-9a8b-1d873839289d.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\adf2c9bd-28f1-48cb-8d4a-e298464357ff.docx",
+      "PackagePath": "staticwebassets\\uploads\\adf2c9bd-28f1-48cb-8d4a-e298464357ff.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\ae353462-d3c0-4f2a-8bbd-4bd1fb7be7cc.docx",
+      "PackagePath": "staticwebassets\\uploads\\ae353462-d3c0-4f2a-8bbd-4bd1fb7be7cc.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\ae449ffb-edfa-4ae3-94ae-fae8891b13f5.docx",
+      "PackagePath": "staticwebassets\\uploads\\ae449ffb-edfa-4ae3-94ae-fae8891b13f5.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\aed9e382-af61-4f30-b126-30ed8d8685a6.docx",
+      "PackagePath": "staticwebassets\\uploads\\aed9e382-af61-4f30-b126-30ed8d8685a6.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\af75df0e-a69f-4bc7-bb6a-96ba59fc01f6.docx",
+      "PackagePath": "staticwebassets\\uploads\\af75df0e-a69f-4bc7-bb6a-96ba59fc01f6.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\b0c092b1-4525-499c-9bc7-dccd03729564.docx",
+      "PackagePath": "staticwebassets\\uploads\\b0c092b1-4525-499c-9bc7-dccd03729564.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\bba8a1e6-462b-4673-b7a3-4a737fb708ae.docx",
+      "PackagePath": "staticwebassets\\uploads\\bba8a1e6-462b-4673-b7a3-4a737fb708ae.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\bce48cbf-c147-414a-934a-1699e0bc832a.docx",
+      "PackagePath": "staticwebassets\\uploads\\bce48cbf-c147-414a-934a-1699e0bc832a.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\bd9a788a-8db7-4ca9-a78b-3634cabf66d3.docx",
+      "PackagePath": "staticwebassets\\uploads\\bd9a788a-8db7-4ca9-a78b-3634cabf66d3.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\bf647a61-f579-4af9-96ff-449e1ff44596.docx",
+      "PackagePath": "staticwebassets\\uploads\\bf647a61-f579-4af9-96ff-449e1ff44596.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\c078d278-737f-4c47-893b-eb5a0bf65efc.docx",
+      "PackagePath": "staticwebassets\\uploads\\c078d278-737f-4c47-893b-eb5a0bf65efc.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\c0982a09-cd97-4275-ab52-4163ad5ef775.docx",
+      "PackagePath": "staticwebassets\\uploads\\c0982a09-cd97-4275-ab52-4163ad5ef775.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\c3713bf6-22ae-4161-84c6-37e9e5b67cd7.docx",
+      "PackagePath": "staticwebassets\\uploads\\c3713bf6-22ae-4161-84c6-37e9e5b67cd7.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\c4be4fec-e9da-4117-8858-63868c8b0bbd.docx",
+      "PackagePath": "staticwebassets\\uploads\\c4be4fec-e9da-4117-8858-63868c8b0bbd.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\c5d1254f-61b2-4a9a-9002-8174ce12b92f.docx",
+      "PackagePath": "staticwebassets\\uploads\\c5d1254f-61b2-4a9a-9002-8174ce12b92f.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\c5d1254f-61b2-4a9a-9002-8174ce12b92f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\c5d1254f-61b2-4a9a-9002-8174ce12b92f.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\c889e142-08aa-49ea-8ddc-b0e88f2e78aa.docx",
+      "PackagePath": "staticwebassets\\uploads\\c889e142-08aa-49ea-8ddc-b0e88f2e78aa.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\ca00292a-cb82-4950-952f-ed5a93b6b685.docx",
+      "PackagePath": "staticwebassets\\uploads\\ca00292a-cb82-4950-952f-ed5a93b6b685.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\ca1d1a26-8cf0-4e83-a90a-b6991f590434.docx",
+      "PackagePath": "staticwebassets\\uploads\\ca1d1a26-8cf0-4e83-a90a-b6991f590434.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\ce48a274-cd63-4b74-913b-f25d574464d5.docx",
+      "PackagePath": "staticwebassets\\uploads\\ce48a274-cd63-4b74-913b-f25d574464d5.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\cf7d42b1-09c3-4a99-a1d1-b9b1bf61e3b6.docx",
+      "PackagePath": "staticwebassets\\uploads\\cf7d42b1-09c3-4a99-a1d1-b9b1bf61e3b6.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\d53e9525-f38c-4595-b6e1-c20b65d63370.docx",
+      "PackagePath": "staticwebassets\\uploads\\d53e9525-f38c-4595-b6e1-c20b65d63370.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\d579d114-05ca-46b0-aa9f-5738bdc8f04f.docx",
+      "PackagePath": "staticwebassets\\uploads\\d579d114-05ca-46b0-aa9f-5738bdc8f04f.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\d6484fea-0450-4419-a991-d1ca98359b9d.docx",
+      "PackagePath": "staticwebassets\\uploads\\d6484fea-0450-4419-a991-d1ca98359b9d.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\d7e8c663-0ab9-4eed-881d-773785a2736b.docx",
+      "PackagePath": "staticwebassets\\uploads\\d7e8c663-0ab9-4eed-881d-773785a2736b.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\d7e8c663-0ab9-4eed-881d-773785a2736b.pdf",
+      "PackagePath": "staticwebassets\\uploads\\d7e8c663-0ab9-4eed-881d-773785a2736b.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\da32598d-6903-4ee3-a8f6-055086d81359.docx",
+      "PackagePath": "staticwebassets\\uploads\\da32598d-6903-4ee3-a8f6-055086d81359.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\db77eb45-1062-46be-8d07-b62e300e2c89.docx",
+      "PackagePath": "staticwebassets\\uploads\\db77eb45-1062-46be-8d07-b62e300e2c89.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\e0a34f43-ce63-44a5-be02-ffd4aed2ab3e.docx",
+      "PackagePath": "staticwebassets\\uploads\\e0a34f43-ce63-44a5-be02-ffd4aed2ab3e.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\e1353e11-6f7a-4fcc-9578-f7c3be009c95.docx",
+      "PackagePath": "staticwebassets\\uploads\\e1353e11-6f7a-4fcc-9578-f7c3be009c95.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\e377f760-baf6-43b6-90cb-8ffc91a58258.docx",
+      "PackagePath": "staticwebassets\\uploads\\e377f760-baf6-43b6-90cb-8ffc91a58258.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\e67bd92a-3746-49b7-ad6e-eb6bfad5a493.docx",
+      "PackagePath": "staticwebassets\\uploads\\e67bd92a-3746-49b7-ad6e-eb6bfad5a493.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\e8bb044f-36d3-4f69-ac3c-666ee3829ff2.docx",
+      "PackagePath": "staticwebassets\\uploads\\e8bb044f-36d3-4f69-ac3c-666ee3829ff2.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\edf1246f-dc21-4af9-be3e-73244b19f377.docx",
+      "PackagePath": "staticwebassets\\uploads\\edf1246f-dc21-4af9-be3e-73244b19f377.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\ee15977b-da4f-4c1e-a456-203a966b0e5b.docx",
+      "PackagePath": "staticwebassets\\uploads\\ee15977b-da4f-4c1e-a456-203a966b0e5b.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\eea93548-f51e-4f93-b916-8a0229abd6c6.docx",
+      "PackagePath": "staticwebassets\\uploads\\eea93548-f51e-4f93-b916-8a0229abd6c6.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\eeb24332-24f4-4e1f-a727-c5820d2eb489.docx",
+      "PackagePath": "staticwebassets\\uploads\\eeb24332-24f4-4e1f-a727-c5820d2eb489.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\ef3fddc1-a4b0-49ca-89de-924ff4166fc2.docx",
+      "PackagePath": "staticwebassets\\uploads\\ef3fddc1-a4b0-49ca-89de-924ff4166fc2.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\ef49f69a-ea90-4160-88ce-88935b6f927b.docx",
+      "PackagePath": "staticwebassets\\uploads\\ef49f69a-ea90-4160-88ce-88935b6f927b.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\f2a0c66f-dd82-48cb-b013-258e01693cdb.docx",
+      "PackagePath": "staticwebassets\\uploads\\f2a0c66f-dd82-48cb-b013-258e01693cdb.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\f2fe8c63-18cd-41f4-bcae-55f6a0390e11.docx",
+      "PackagePath": "staticwebassets\\uploads\\f2fe8c63-18cd-41f4-bcae-55f6a0390e11.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\f3589bcd-657a-4355-97c7-83b85304983c.docx",
+      "PackagePath": "staticwebassets\\uploads\\f3589bcd-657a-4355-97c7-83b85304983c.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\f3e4d399-0b6d-4ccf-8d9f-8f6489ca82f2.docx",
+      "PackagePath": "staticwebassets\\uploads\\f3e4d399-0b6d-4ccf-8d9f-8f6489ca82f2.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\f53013ed-84bf-4e35-b291-b19697d308ed.docx",
+      "PackagePath": "staticwebassets\\uploads\\f53013ed-84bf-4e35-b291-b19697d308ed.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\f6730c93-2ab2-448a-827c-5e7c875f8e66.docx",
+      "PackagePath": "staticwebassets\\uploads\\f6730c93-2ab2-448a-827c-5e7c875f8e66.docx"
+    },
+    {
+      "Id": "C:\\Users\\Sony\\Downloads\\ScholarHUB_Final\\ScholarHUB\\ScholarHUB\\wwwroot\\uploads\\f887a021-7be9-40ab-b280-f7cc059b5398.docx",
+      "PackagePath": "staticwebassets\\uploads\\f887a021-7be9-40ab-b280-f7cc059b5398.docx"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ScholarHUB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ScholarHUB.props",
+      "PackagePath": "build\\ScholarHUB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ScholarHUB.props",
+      "PackagePath": "buildMultiTargeting\\ScholarHUB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ScholarHUB.props",
+      "PackagePath": "buildTransitive\\ScholarHUB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

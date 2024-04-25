@@ -1,0 +1,37 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model ScholarHUB.Models.Role
+@{
+    ViewData["Title"] = "Edit User's Role";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Edit User's Role</h1>
+            <form asp-action="EditRole" method="post">
+                <div class="form-group mb-3 email-box">
+                    <label for="email">Email:</label>
+                    <input id="email" name="email" type="hidden" value="@ViewBag.SelectedEmail" />
+                    <span id="email-display" class="form-control" readonly>@ViewBag.SelectedEmail</span>
+                </div>
+                <div class="form-group mb-3">
+                    <label for="roleId">Role:</label>
+                    <select id="roleId" name="roleId" class="form-control">
+                        <option value="@ViewBag.CurrentRole" selected>@ViewBag.CurrentRole</option>
+                        @foreach (var role in ViewBag.Roles)
+                        {
+                            if (role.Id != ViewBag.CurrentRole)  // Sử dụng Id thay vì Name
+                            {
+                                <option value="@role.Id">@role.Name</option>
+                                // Lấy Id và hiển thị Name
+                            }
+                        }
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-primary">Edit Role</button>
+            </form>
+        </div>
+    </div>
+</div>

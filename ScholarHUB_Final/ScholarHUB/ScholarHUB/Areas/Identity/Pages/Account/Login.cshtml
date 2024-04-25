@@ -1,0 +1,55 @@
+﻿@page
+@using ScholarHub.Areas.Identity.Pages.Account
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+    Layout = "/Areas/Identity/Pages/_LoginRegister.cshtml";
+}
+
+<form id="account" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+    <div class="wrapper">
+        <div class="container main">
+            <div class="row">
+                <div class="col-md-6 side-image" style="background-image: url('https://images.pexels.com/photos/3186386/pexels-photo-3186386.jpeg?auto=compress&cs=tinysrgb&w=800');">
+
+                    <div class="text">
+                        <p>Join the community of developers <i>- Scholar Hub</i></p>
+                    </div>
+
+                </div>
+                <div class="col-md-6 right">
+
+                    <div class="input-box">
+                        <header>Log In</header>
+                        <div asp-validation-summary="ModelOnly" class="text-danger" role="alert">
+                        </div>
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                        <br />
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                        <div class="input-field">
+                            <input asp-for="Input.Email" class="input" autocomplete="username" />
+                            <label asp-for="Input.Email">Email</label>
+                        </div>
+                        <div class="input-field">
+                            <input asp-for="Input.Password" class="input" autocomplete="current-password" />
+                            <label asp-for="Input.Password">Password</label>
+                        </div>
+                        <div class="input-field">
+                            <input type="submit" class="submit" value="Sign In">
+                        </div>
+                        <div class="sign in">
+                            <span>
+                                Forgot your password? <a class="text-primary id="forgot-password" asp-page="./ForgotPassword">Click here</a>
+                            </span>
+                            <br />
+                            <span>
+                                Does Not Have An Account Yet? <a class="text-primary" asp-for="" asp-area="Identity" asp-page="./Register">Register here</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

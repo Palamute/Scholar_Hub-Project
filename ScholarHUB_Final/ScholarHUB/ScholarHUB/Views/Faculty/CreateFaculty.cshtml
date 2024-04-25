@@ -1,0 +1,29 @@
+﻿@model ScholarHUB.Models.Faculty
+@{
+    ViewData["Title"] = "Admin Create Faculty";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Admin - Create Faculty</h1>
+            <hr />
+            <div class="row">
+                <div class="col-md-12">
+                    <form asp-action="CreateFaculty">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group mb-3">
+                            <label asp-for="FacultyName" class="control-label"></label>
+                            <input asp-for="FacultyName" class="form-control" />
+                            <span asp-validation-for="FacultyName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Create" class="btn btn-primary" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

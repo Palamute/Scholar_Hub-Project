@@ -1,0 +1,52 @@
+﻿@model IEnumerable<ScholarHUB.Models.Article>
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <h2>My Articles</h2>
+
+            <div class="table-responsive">
+                <table class="table table-striped table-hover">
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Created Date</th>
+                            <th>Status</th>
+                            <th>Coordinator Comment</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var article in Model)
+                        {
+                            <tr>
+                                <td>@article.Title</td>
+                                <td>@article.CreatedDate.ToShortDateString()</td>
+                                <td>@article.Select</td>
+                                <td>
+                                    @if (article.Comments.Any())
+                                    {
+
+                                        @foreach (var comment in article.Comments)
+                                        {
+                                            <span>@comment.Content</span>
+                                        }
+
+                                    }
+                                    else
+                                    {
+                                        <span>No comments</span>
+                                    }
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div>
+                <a asp-controller="User" asp-action="Index" class="btn btn-secondary text-white mt-2">Back To User Page</a>
+            </div>
+        </div>
+    </div>
+</div>
+

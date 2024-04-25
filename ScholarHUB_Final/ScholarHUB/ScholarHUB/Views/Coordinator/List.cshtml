@@ -1,0 +1,80 @@
+﻿@model IEnumerable<ScholarHUB.Models.Article>
+
+@{
+    ViewData["Title"] = "List of Articles";
+    Layout = "~/Views/Shared/_Coordinator.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>@ViewData["Title"]</h2>
+
+
+            <form asp-controller="Coordinator" asp-action="Search" method="post">
+                <p>
+                    Search: <input type="text" name="searchString" value="@ViewData["currentFilter"]" />
+                    <input type="submit" value="Search" class="btn btn-info" />
+                </p>
+            </form>
+            <div class="table-responsive">
+                <table class="table table-striped table-hover">
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Author</th>
+                            <th>Created Date</th>
+                            <th>Faculty</th>
+                            <th>Status</th>
+                            <th>Comment</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var article in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => article.Title)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => article.AuthorName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => article.CreatedDate)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => article.FacultyName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => article.Select)
+                                </td>
+                                <td>
+                                    @if (article.Comments.Any())
+                                    {
+                                        foreach (var comment in article.Comments)
+                                        {
+                                            <span>@comment.Content</span>
+
+                                            <br />
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <span>No comments</span>
+                                    }
+                                </td>
+                                <td>
+                                    <a asp-controller="Article" asp-action="Render" asp-route-id="@article.ArticleId" class="btn btn-primary">View Document</a>
+                                    <a asp-controller="Article" asp-action="Details" asp-route-id="@article.ArticleId" class="btn btn-secondary">Details</a>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

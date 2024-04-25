@@ -1,0 +1,67 @@
+﻿@model ScholarHUB.Models.Article
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Reject</h1>
+
+<h3>Are you sure you want to reject and delete this article?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FilePath)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FilePath)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ImagePath)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ImagePath)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PublishedDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PublishedDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CreatedDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CreatedDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FacultyName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FacultyName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AuthorId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AuthorId)
+        </dd>
+    </dl>
+
+    @if (User.IsInRole("Coordinator"))
+    {
+        <div>
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="ArticleId" />
+                <input type="submit" value="Reject" class="btn btn-danger" /> |
+                <a asp-controller="Coordinator" asp-action="List" class="btn btn-secondary">Cancel</a>
+            </form>
+        </div>
+    }
+</div>

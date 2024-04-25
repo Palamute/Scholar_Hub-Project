@@ -1,0 +1,82 @@
+﻿@using ScholarHub.Areas.Identity.Pages.Account
+@model RegisterModel.InputModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-1"></div>
+        <div class="col-md-12">
+            <h1>Admin - Create User</h1>
+            <hr />
+            <div class="row">
+                <div class="col-12">
+                    <form id="createrForm" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                        <div class="input-field mb-3">
+                            <label asp-for="FirstName">First Name</label>
+                            <input asp-for="FirstName" class="form-control" required />
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                        </div>
+                        <div class="input-field mb-3">
+                            <label asp-for="LastName">Last Name</label>
+                            <input asp-for="LastName" class="form-control" required />
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+                        </div>
+                        <div class="input-field mb-3">
+                            <label asp-for="Email"></label>
+                            <input asp-for="Email" class="form-control" required />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <!-- Remove password fields -->
+                        <input type="hidden" asp-for="Password" value="Scholarhub123." />
+                        <input type="hidden" asp-for="ConfirmPassword" value="Scholarhub123." />
+                        <!-- End of password fields -->
+                        <div class="select-field mb-3">
+                            <label asp-for="RoleId" class="control-label">Role</label>
+                            <select asp-for="RoleId" class="form-control" aria-label="Role">
+                                <option selected disabled>Select Role</option>
+                                @foreach (var role in (ViewData["Roles"] as List<SelectListItem>))
+                                {
+                                    <option value="@role.Value">@role.Text</option>
+                                }
+                            </select>
+                            <span asp-validation-for="RoleId" class="text-danger"></span>
+                        </div>
+                        <div class="select-field mb-3">
+                            <label asp-for="FacultyName"></label>
+                            <select asp-for="FacultyName" id="faculty" class="form-select" aria-label="Faculty">
+                                <option selected disabled>Select Faculty</option>
+                                @foreach (var faculty in (ViewData["Faculty"]) as List<ScholarHUB.Models.Faculty>)
+                                {
+                                    <option class="form-select" value="@faculty.FacultyName">@faculty.FacultyName</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="select-field mb-3">
+                            <label asp-for="AcademicYear">Academic Year</label>
+                            <select asp-for="AcademicYear" class="form-select" aria-label="AcademicYear">
+                                <option selected disabled>Select Academic Year</option>
+                                @{
+                                    int currentYear = DateTime.Now.Year;
+                                    for (int year = currentYear - 5; year <= currentYear; year++)
+                                    {
+                                        <option value="@year-@System.Math.Max(year, year+1)">@year-@System.Math.Max(year, year + 1)</option>
+                                    }
+                                }
+                            </select>
+                            <span asp-validation-for="AcademicYear" class="text-danger"></span>
+                        </div>
+                        <div class="input-field mb-3">
+                            <button type="submit" class="btn btn-primary">Create</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-1"></div>
+    </div>
+</div>
